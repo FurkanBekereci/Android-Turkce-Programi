@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbarAlwaysDrawHorizontalTrack="true"
+    android:scrollbarAlwaysDrawVerticalTrack="true"
+    android:background="@drawable/alpha_picture">
+
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:text="asdasd"
+        android:textStyle="bold"
+        android:textSize="40dp"
+        android:textColor="#000000"
+        android:id="@+id/txtKelime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:text="aasd"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:id="@+id/txtAnlam"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="aasd"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:id="@+id/txtKoken"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="aasd"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:id="@+id/txtEnEskiKaynak"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="aasd"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:id="@+id/txtEkAciklama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
